@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7700394d-7cd8-4953-bffa-e7de599e31a6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comportamiento/observer/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comportamiento/observer/editor/Editor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comportamiento/observer/listener/EmailNotificationListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comportamiento/observer/listener/EventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comportamiento/observer/listener/LogOpenListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comportamiento/observer/publisher/EventManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comportamiento/state/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comportamiento/state/LockedState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comportamiento/state/PlayingState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comportamiento/state/ReadyState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comportamiento/state/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comportamiento/state/ui/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comportamiento/state/ui/UI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comportamiento/strategy/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comportamiento/strategy/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comportamiento/strategy/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comportamiento/strategy/PayByCreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comportamiento/strategy/PayByPayPal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comportamiento/strategy/PayStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/abstractFactory/demo/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/abstractFactory/demo/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/abstractFactory/demo/buttons/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/abstractFactory/demo/buttons/MacOSButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/abstractFactory/demo/buttons/WindowsButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/abstractFactory/demo/checkboxes/Checkbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/abstractFactory/demo/checkboxes/MacOSCheckbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/abstractFactory/demo/checkboxes/WindowsCheckbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/abstractFactory/demo/factories/GUIFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/abstractFactory/demo/factories/MacOSFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/abstractFactory/demo/factories/WindowsFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/abstractFactory/practica/AbstractFactoryPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/abstractFactory/practica/FactoryProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/abstractFactory/practica/fabrica/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/abstractFactory/practica/fabrica/RoundedShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/abstractFactory/practica/fabrica/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/abstractFactory/practica/shape/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/abstractFactory/practica/shape/RoundedRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/abstractFactory/practica/shape/RoundedSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/abstractFactory/practica/shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/abstractFactory/practica/shape/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/builder/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/builder/CarBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/builder/CarManualBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/builder/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/builder/cars/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/builder/cars/CarType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/builder/cars/Manual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/builder/components/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/builder/components/GPSNavigator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/builder/components/Transmission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/builder/components/TripComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/builder/director/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/factory/demo/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/factory/demo/buttons/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/factory/demo/buttons/HtmlButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/factory/demo/buttons/WindowsButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/factory/demo/factory/Dialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/factory/demo/factory/HtmlDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/factory/demo/factory/WindowsDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/factory/practica/FactoryPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/factory/practica/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/factory/practica/producto/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/factory/practica/producto/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/factory/practica/producto/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/factory/practica/producto/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/singleton/cargaddiferida/DemoMultiThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/singleton/cargaddiferida/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/singleton/ingenuoMultihilo/DemoMultiThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/singleton/ingenuoMultihilo/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/singleton/ingenuoUnico/DemoSingleThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creacion/singleton/ingenuoUnico/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/Flyweight/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/Flyweight/forest/Forest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/Flyweight/tree/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/Flyweight/tree/TreeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/Flyweight/tree/TreeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/adapter/SquarePegAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/adapter/round/RoundHole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/adapter/round/RoundPeg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/adapter/square/SquarePeg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/bridge/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/bridge/devices/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/bridge/devices/Radio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/bridge/devices/Tv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/bridge/remote/AdvancedRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/bridge/remote/BasicRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/bridge/remote/Remote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/composite/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/composite/editor/ImageEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/composite/shape/BaseShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/composite/shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/composite/shape/CompoundShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/composite/shape/Dot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/composite/shape/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/composite/shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/decorator/CompressionDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/decorator/DataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/decorator/DataSourceDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/decorator/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/decorator/EncryptionDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/decorator/FileDataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/facade/AudioMixer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/facade/BitrateReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/facade/Codec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/facade/CodecFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/facade/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/facade/MPEG4CompressionCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/facade/OggCompressionCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/facade/VideoConversionFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estructurales/facade/VideoFile.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LpS8ZEw619RuDniI9sKvdOCsbS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.patrones.factory.logistica" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="comportamiento.strategy.Demo" />
+      <module name="patrones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="comportamiento.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="comportamiento.observer.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="comportamiento.observer.Demo" />
+      <module name="patrones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="comportamiento.observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="comportamiento.state.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="comportamiento.state.Demo" />
+      <module name="patrones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="comportamiento.state.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="estructurales.Flyweight.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estructurales.Flyweight.Demo" />
+      <module name="patrones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estructurales.Flyweight.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="estructurales.decorator.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estructurales.decorator.Demo" />
+      <module name="patrones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estructurales.decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.comportamiento.state.Demo" />
+        <item itemvalue="Application.comportamiento.observer.Demo" />
+        <item itemvalue="Application.estructurales.Flyweight.Demo" />
+        <item itemvalue="Application.estructurales.decorator.Demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7700394d-7cd8-4953-bffa-e7de599e31a6" name="Changes" comment="" />
+      <created>1676566374551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676566374551</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
